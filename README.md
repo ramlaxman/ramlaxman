@@ -10,10 +10,10 @@ This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at D
 
 My areas of re:flashlight: interest are: :cloud: :computer:, Distributed Storage, Containers, Caches, Cloud Native Services. 
 
+- I conduct training on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
 - I’m currently :hammer: on Curriculum Developement of Python, Cloud Computing, AWS Solution Architect.
-- :books: I also work as Subject Matter Expert for Python, Cloud Computing, Open Source Projects.
-- I also conducted training for Docker, Python, GitHub,  Sometimes: Jira, Scrum.
-- I work on some leisure projects as :keyboard: which could be found on GitHub account.
+- I also work as Subject Matter Expert :books: for Python, Cloud Computing, Open Source :man_technologist:.
+- I work on some leisure projects as :keyboard: which reside on my GitHub account.
 - Ask me :question: about Python, Cloud Computing, Amazon Cloud Services.
 
 ### Always open to discuss new opportunities. Feel free to contact me:
