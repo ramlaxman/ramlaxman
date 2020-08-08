@@ -2,6 +2,7 @@
 
 <!--
 **ramlaxman/ramlaxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emoji Link: https://github-emoji-list.herokuapp.com/
 
 Here are some ideas to get you started:
 -->
