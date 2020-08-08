@@ -19,7 +19,7 @@ My areas of re:flashlight: interest are: :cloud: :computer:, Distributed Storage
 
 ### Always open to discuss new opportunities. Feel free to contact me:
 
-- [:email:](mailto:ram.nath241089@gmail.com)
+- Email: [:email:](mailto:ram.nath241089@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mayurpatil7)
 - [Twitter](https://twitter.com/RamMayur)
 - [Facebook](https://www.facebook.com/RamMayur)
