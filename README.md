@@ -7,7 +7,7 @@ Emoji Link: https://github-emoji-list.herokuapp.com/
 Here are some ideas to get you started:
 -->
 
-This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at Department of :Computer: Engineering. 
+This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at Department of Computer Engineering. 
 
 My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. 
 
