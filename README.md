@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 
 This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at Department of :Computer: Engineering. 
 
-My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. Along with this, I work as:
+My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. 
+
+Along with this, I work as:
 
 - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
 
