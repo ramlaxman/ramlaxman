@@ -12,14 +12,19 @@ This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at D
 My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. Along with this, I work as:
 
 - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
-- **Curriculum Developer:** 
-  
-   _For Professionals: Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services. 
-   _For Schools and Colleges: Python, Cryptography.
+
+- **Curriculum Developer:**
+
+   _For Professionals: Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services._
    
-- **Subject Matter Expert :books: :**  Python, Cloud Computing, Open Source Technologies.
+   _For Schools and Colleges: Python, Cryptography._
+   
+- **Subject Matter Expert :books::**  Python, Cloud Computing, Open Source Technologies.
+
 - **Technical Writer:** Systems Area, Cloud Computing, Distributed Systems, Python.
+
 - I enjoy playing with HTML5, CSS3 and bit of JS. 
+
 - Ask me :question: about Python, Cloud Computing, Amazon (Web) Cloud Services.
 
 ### Always open to discuss new opportunities. Feel free to contact me:
