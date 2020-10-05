@@ -33,7 +33,6 @@ Along with this, I work as:
 **Official Social Media**
 |Email|Facebook|Twitter|LinkedIn|Quora|
 |---|---|---|---|---|
-|[![Email](https://img.shields.io/badge/Gmail-E--Mail-C6C6C6?logo=Gmail&style=flat)](mailto:ram.nath241089@gmail.com)|
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?message=@RamMayur&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/RamMayur)||||
 
 <!--|[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue??style=social&logo=facebook&color=9cf)](https://www.facebook.com/mayurram)|   |  |  |-->
