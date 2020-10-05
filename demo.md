@@ -14,6 +14,6 @@ Developer Social Media:
 -->
 
 Researcher Social Media:
-|Google Scholar| ORCID | ResearchGate|
-|---|---|---|
-|[![Google Scholar](https://img.shields.io/badge/GoogleScholar-4285F4.svg?logo=google-scholar&style=flat&logoColor=white)](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&style=flat&logoColor=white)](https://orcid.org/0000-0003-2220-3776)|[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&style=flat&logoColor=white)](https://www.researchgate.net/profile/Mayur_Patil13)|
+|Google Scholar|ORCID|ResearchGate|Impact Story|FigShare|
+|---|---|---|---|---|
+|[![Google Scholar](https://img.shields.io/badge/GoogleScholar-4285F4.svg?logo=google-scholar&style=flat&logoColor=white)](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&style=flat&logoColor=white)](https://orcid.org/0000-0003-2220-3776)|[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&style=flat&logoColor=white)](https://www.researchgate.net/profile/Mayur_Patil13)|[![ImpactStory](https://img.shields.io/badge/ImpactStory-red?logo=ImpactStory&style=Flat)](https://profiles.impactstory.org/u/0000-0003-2220-3776/achievements)|[![FigShare](https://img.shields.io/badge/FigShare-556472.svg?logo=FigShare&style=flat&logoColor=white)](https://figshare.com/authors/Mayur_Patil/6895067)|
