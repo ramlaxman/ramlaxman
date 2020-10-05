@@ -14,6 +14,6 @@ Developer Social Media:
 -->
 
 Researcher Social Media:
-|Google Scholar| ORCID |
-|---|---|
-|[![Google Scholar](https://img.shields.io/badge/GoogleScholar-follow-4285F4.svg?logo=google-scholar)](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|[![ORCID](https://img.shields.io/badge/ORCID-follow-A6CE39.svg?logo=orcid)](https://orcid.org/0000-0003-2220-3776)|
+|Google Scholar| ORCID | ResearchGate|
+|---|---|---|
+|[![Google Scholar](https://img.shields.io/badge/GoogleScholar-4285F4.svg?logo=google-scholar&style=flat&logoColor=white)](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&style=flat&logoColor=white)](https://orcid.org/0000-0003-2220-3776)|[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&style=flat&logoColor=white)](https://www.researchgate.net/profile/Mayur_Patil13)|
