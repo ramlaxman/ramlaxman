@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 
 This repo is all about me, me and me.
 
-This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at Department of Computer Engineering. 
-
-My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. 
+This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at Department of Computer Engineering. My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. 
 
 Along with this, I work as:
 
@@ -23,9 +21,7 @@ Along with this, I work as:
   _For Schools and Colleges: Python, Cryptography._
 - **Subject Matter Expert :books::**  Python, Cloud Computing, Open Source Technologies.
 - **Technical Writer:** Systems Area, Cloud Computing, Distributed Systems, Python.
-
 - I enjoy playing with HTML5, CSS3 and bit of JS. 
-
 - Ask me :question: about Python, Cloud Computing, Amazon (Web) Cloud Services.
 
 ### Always open to discuss new opportunities. Feel free to contact me:
@@ -33,7 +29,9 @@ Along with this, I work as:
 **Official Social Media**
 |Email|Facebook|Twitter|LinkedIn|Quora|
 |---|---|---|---|---|
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?message=@RamMayur&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/RamMayur)||||
+|[![Email](https://img.shields.io/badge/Gmail-white?logo=GMail&style=flat&logoColor=red)](mailto:ram.nath241089@gmail.com)|[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=Facebook&style=flat&logoColor=white)](https://www.facebook.com/Mayurram)|[![Twitter](https://img.shields.io/badge/Twitter-00acee?logo=Twitter&style=flat&logoColor=white)](https://twitter.com/RamMayur)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-00acee?logo=LinkedIn&style=flat&logoColor=white)](https://www.linkedin.com/in/mayurpatil7/)|[![Quora](https://img.shields.io/badge/Quora-darkred?logo=Quora&style=flat&logoColor=white)](https://www.quora.com/profile/मयूर-पाटील-Mayur-Patil)|
+
+
 
 <!--|[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue??style=social&logo=facebook&color=9cf)](https://www.facebook.com/mayurram)|   |  |  |-->
 
