@@ -11,7 +11,8 @@ Developer Social Media:
 Researcher Social Media:
 |Google Scholar|
 |---|
-|[![Google Scholar](https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|
+|<a href="https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/ramlaxman/ramlaxman/master/images/googlescholar.svg" align="left" height="24"></a>|
+
 
 
 
