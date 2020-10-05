@@ -11,7 +11,7 @@ Developer Social Media:
 Researcher Social Media:
 |Google Scholar|
 |---|
-|<a href="https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/ramlaxman/ramlaxman/master/images/googlescholar.svg" align="left" height="24"></a>|
+|<a href="https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/ramlaxman/ramlaxman/master/images/googlescholar.svg" align="left" height="24" ></a>|
 
 
 
