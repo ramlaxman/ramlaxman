@@ -9,12 +9,9 @@ Developer Social Media:
 
 
 Researcher Social Media:
-|Google Scholar|
-|---|
-|<a href="https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/ramlaxman/ramlaxman/master/images/googlescholar.svg" align="left" height="24" ></a>|
-
-
-
+|Google Scholar| Demo |
+|---|---|
+|<img height="32" width="32" src="https://simpleicons.org/icons/githubactions.svg" style="background-color:181717"/>||
 
 <!--[![ORCID](https://simpleicons.org/icons/orcid.svg)](https://orcid.org/0000-0003-2220-3776)| |||-->
  
