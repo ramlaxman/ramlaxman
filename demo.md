@@ -5,6 +5,6 @@
 Developer Social Media:
 |Stopstalk|Facebook|Twitter|LinkedIn|Quora|
 |---|---|---|---|---|
-[![Stopstalk](https://img.shields.io/badge/Stopstalk-white?logo=Stopstalk&style=flat&logoColor=red)](https://www.stopstalk.com/user/profile/mayurp7)|
+[![Stopstalk](https://img.shields.io/badge/Stopstalk-red?logo=Stopstalk&style=flat&labelColor=red)](https://www.stopstalk.com/user/profile/mayurp7)|
 
 Researcher Social Media:
