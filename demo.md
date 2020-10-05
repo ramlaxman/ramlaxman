@@ -1,6 +1,6 @@
 |Email|Facebook|Twitter|LinkedIn|Quora|Visitors|
 |---|---|---|---|---|---|
-|[![Email](https://img.shields.io/badge/Gmail-white?logo=GMail&style=flat&logoColor=red)](mailto:ram.nath241089@gmail.com)|[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=Facebook&style=flat&logoColor=white)](https://www.facebook.com/Mayurram)|[![Twitter](https://img.shields.io/badge/Twitter-00acee?logo=Twitter&style=flat&logoColor=white)](https://twitter.com/RamMayur)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-00acee?logo=LinkedIn&style=flat&logoColor=white)](https://www.linkedin.com/in/mayurpatil7/)|[![Quora](https://img.shields.io/badge/Quora-darkred?logo=Quora&style=flat&logoColor=white)](https://www.quora.com/profile/मयूर-पाटील-Mayur-Patil)|[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ramlaxman.visitor-badge)](https://github.com/ramlaxman)|
+|[![Email](https://img.shields.io/badge/Gmail-white?logo=GMail&style=flat&logoColor=red)](mailto:ram.nath241089@gmail.com)|[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=Facebook&style=flat&logoColor=white)](https://www.facebook.com/Mayurram)|[![Twitter](https://img.shields.io/badge/Twitter-00acee?logo=Twitter&style=flat&logoColor=white)](https://twitter.com/RamMayur)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-1864ab?logo=LinkedIn&style=flat&logoColor=white)](https://www.linkedin.com/in/mayurpatil7/)|[![Quora](https://img.shields.io/badge/Quora-darkred?logo=Quora&style=flat&logoColor=white)](https://www.quora.com/profile/मयूर-पाटील-Mayur-Patil)|[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ramlaxman.visitor-badge)](https://github.com/ramlaxman)|
 
 Developer Social Media:
 |Stopstalk|Facebook|Twitter|LinkedIn|Quora|
@@ -8,9 +8,10 @@ Developer Social Media:
 [![Stopstalk](https://img.shields.io/badge/Stopstalk-red?logo=Stopstalk&style=flat&labelColor=red)](https://www.stopstalk.com/user/profile/mayurp7)|
 
 Researcher Social Media:
-|Google Scholar|ORCID|Twitter|LinkedIn|Quora|
-|---|---|---|---|---|
-|[![Google Scholar](https://simpleicons.org/icons/googlescholar.svg?logoColor=darkblue)](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|[![ORCID](https://simpleicons.org/icons/orcid.svg)](https://orcid.org/0000-0003-2220-3776)| | | | 
+|Google Scholar|
+|---|
+|[![Google Scholar](img src="./controllers_brief.svg")](https://scholar.google.co.in/citations?user=JRhkWgoAAAAJ&hl=en)|
 
 
-
+<!--[![ORCID](https://simpleicons.org/icons/orcid.svg)](https://orcid.org/0000-0003-2220-3776)| |||-->
+ 
