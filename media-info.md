@@ -7,9 +7,11 @@
 
 
 
-|Stopstalk|GitHub|CodeChef|HackerRank|HackerEarth|
-|---|---|---|---|---|
-[![Stopstalk](https://img.shields.io/badge/Stopstalk-Follow-red?logo=Stopstalk&style=flat&labelColor=red)](https://www.stopstalk.com/user/profile/mayurp7)|[![GitHub followers](https://img.shields.io/github/followers/ramlaxman?style=social)](https://github.com/ramlaxman)|[![CodeChef](https://img.shields.io/badge/CodeChef-Follow-5B4638?logo=CodeChef&style=flat&logoColor=white)](https://www.codechef.com/users/mayurp7)|[![HackerRank](https://img.shields.io/badge/HackerRank-Follow-2EC866?logo=HackerRank&style=flat&logoColor=white)](https://www.hackerrank.com/mayurp7)|[![HackerEarth](https://img.shields.io/badge/HackerEarth-Follow-323754?logo=HackerEarth&style=flat&logoColor=white)](https://www.hackerearth.com/@mayurp7)|
+|Stopstalk|GitHub|CodeChef|HackerRank|HackerEarth|CodeForces|TopCoder|
+|---|---|---|---|---|---|---|
+[![Stopstalk](https://img.shields.io/badge/Stopstalk-Follow-red?logo=Stopstalk&style=flat&labelColor=red)](https://www.stopstalk.com/user/profile/mayurp7)|[![GitHub followers](https://img.shields.io/github/followers/ramlaxman?style=social)](https://github.com/ramlaxman)|[![CodeChef](https://img.shields.io/badge/CodeChef-Follow-5B4638?logo=CodeChef&style=flat&logoColor=white)](https://www.codechef.com/users/mayurp7)|[![HackerRank](https://img.shields.io/badge/HackerRank-Follow-2EC866?logo=HackerRank&style=flat&logoColor=white)](https://www.hackerrank.com/mayurp7)|[![HackerEarth](https://img.shields.io/badge/HackerEarth-Follow-323754?logo=HackerEarth&style=flat&logoColor=white)](https://www.hackerearth.com/@mayurp7)|[![Codeforces](https://img.shields.io/badge/Codeforces-Follow-1F8ACB?logo=Codeforces&style=flat&logoColor=white)](https://www.codeforces.com/users/mayurp7)|[![TopCoder](https://img.shields.io/badge/TopCoder-Follow-29A8E0?logo=TopCoder&style=flat&logoColor=white)](https://www.topcoder.com/members/mayurp7)|
+
+
 
 
 
