@@ -13,6 +13,11 @@ This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at D
 
 Along with this, I work as:
 
+- **Technical Writer:** 
+   - Systems Area, Cloud Computing, Distributed Systems, Python.
+   - Deep Familiarity with Microsoft Style Guide, Chicago Manual of Style.
+   - 
+   - 
 - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
 - **Curriculum Developer:**
 
@@ -20,7 +25,7 @@ Along with this, I work as:
 
   _For Schools and Colleges: Python, Cryptography._
 - **Subject Matter Expert :books::**  Python, Cloud Computing, Open Source Technologies.
-- **Technical Writer:** Systems Area, Cloud Computing, Distributed Systems, Python.
+
 - I enjoy playing with HTML5, CSS3 and bit of JS. 
 - Ask me :question: about Python, Cloud Computing, Amazon (Web) Cloud Services.
 
