@@ -16,8 +16,9 @@ Along with this, I work as:
 - **Technical Writer:** 
    - Systems Area, Cloud Computing, Distributed Systems, Python.
    - Deep Familiarity with Microsoft Style Guide, Chicago Manual of Style.
-   - 
-   - 
+   - Good at Python Developer Documentation Style, reStructuredText.
+   - Excellent Hands on Markdown, HTML, CSS, Jekyll.
+   
 - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
 - **Curriculum Developer:**
 
