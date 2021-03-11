@@ -30,7 +30,9 @@ Along with this, I work as:
 - I enjoy playing with HTML5, CSS3 and bit of JS. 
 - Ask me :question: about Python, Cloud Computing, Amazon (Web) Cloud Services.
 
-### Always open to discuss new opportunities. Feel free to contact me:
+### Always open to discuss new opportunities. Feel free to contact me.
+
+#### My Quote: Sometimes I feel bored, then I try to Code !
 
 **Official Social Media**
 |Email|Facebook|Twitter|LinkedIn|Quora|Visitors|YouTube-Entertainment|
