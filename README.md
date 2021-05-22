@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 This repo is all about me, me and me.
 
-This is Mayur Patil. Currently working as Assistant Professor :man_teacher: at Department of Computer Engineering. My areas of research interest are: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. 
+This is Mayur Patil. My area of research interest: Cloud Computing, Distributed Storage, Containers, Caches, Cloud Native Services. 
 
 Along with this, I work as:
 
@@ -20,6 +20,7 @@ Along with this, I work as:
    - Excellent Hands on Markdown, HTML, CSS, Jekyll.
    
 - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
+
 - **Curriculum Developer:**
 
    _For Professionals: Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services._
