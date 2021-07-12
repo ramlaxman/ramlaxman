@@ -14,26 +14,27 @@ This is Mayur Patil. My area of research interest: Cloud Computing, Distributed 
 Along with this, I work as:
 
 - **Technical Writer:** 
-   - Systems Area, Cloud Computing, Distributed Systems, Python.
-   - Deep Familiarity with Microsoft Style Guide, Chicago Manual of Style.
-   - Good at Python Developer Documentation Style, reStructuredText.
-   - Excellent Hands on Markdown, HTML, CSS, Jekyll.
+   - Passionate about Systems Area, Cloud Computing, Distributed Systems, Python
+   - Deep Familiarity with Oxford Style Guide, Microsoft Style Guide, Chicago Manual of Style
+   - Good at Markdown, reStructuredText, Asciidoc
+   - Excellent Hands on Markdown, HTML, CSS
+   - I enjoy playing with HTML5, CSS3 and bit of JS. 
+   - Ask me :question: about Python, Cloud Computing, Amazon Web Services.
+
+  
+ **Additional Profiles:**
+   - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
+
+   - **Curriculum Developer:**
+     
+     _For Professionals: Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services._
+     
+     _For Schools and Colleges: Python, Cryptography._
    
-- **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
+   - **Subject Matter Expert :books::**  Python, Cloud Computing, Open Source Technologies.
 
-- **Curriculum Developer:**
-
-   _For Professionals: Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services._
-
-  _For Schools and Colleges: Python, Cryptography._
-- **Subject Matter Expert :books::**  Python, Cloud Computing, Open Source Technologies.
-
-- I enjoy playing with HTML5, CSS3 and bit of JS. 
-- Ask me :question: about Python, Cloud Computing, Amazon (Web) Cloud Services.
 
 ### Always open to discuss new opportunities. Feel free to contact me.
-
-#### My Quote: Sometimes I feel bored, then I try to Code !
 
 **Official Social Media**
 |Email|Facebook|Twitter|LinkedIn|Quora|Visitors|YouTube-Entertainment|
