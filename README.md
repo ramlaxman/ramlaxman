@@ -16,8 +16,7 @@ Along with this, I work as:
 - **Technical Writer:** 
    - Passionate about Systems Area, Cloud Computing, Distributed Systems, Python
    - Deep Familiarity with Oxford Style Guide, Microsoft Style Guide, Chicago Manual of Style
-   - Good at Markdown, reStructuredText, Asciidoc
-   - Excellent Hands on Markdown, HTML, CSS
+   - Excellent hands-on knowledge of Markdown, Git, reStructuredText, Asciidoc
    - I enjoy playing with HTML5, CSS3 and bit of JS. 
    - Ask me :question: about Python, Cloud Computing, Amazon Web Services.
 
