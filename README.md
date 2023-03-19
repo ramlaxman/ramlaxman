@@ -23,13 +23,13 @@ Along with this, I work as:
   
  **Additional Profiles:**
    - **Technical Trainer:** 
-      - DevOps, Python, Docker, GitHub, Kubernetes, Jenkins.
+      - DevOps, Python, Docker, GitHub, Kubernetes, Jenkins
 
    - **Curriculum Developer:**
-      - Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services, Containerization._
+      - Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services, Containerization
    
    - **Subject Matter Expert :books::**  
-      - Container Technology, Distributed Systems_
+      - Container Technology, Distributed Systems
 
 ### Always open to discuss new opportunities. Feel free to contact me.
 
