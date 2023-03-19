@@ -22,16 +22,14 @@ Along with this, I work as:
 
   
  **Additional Profiles:**
-   - **Technical Trainer:** To conduct trainings on Python, Docker, GitHub,  Sometimes: Jira, Scrum for industry professionals as well as academics.
+   - **Technical Trainer:** 
+      - DevOps, Python, Docker, GitHub, Kubernetes, Jenkins.
 
    - **Curriculum Developer:**
-     
-     _For Professionals: Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services._
-     
-     _For Schools and Colleges: Python, Cryptography._
+      - Cloud Computing, Amazon Web Services, Distributed Storage, Cloud Native Services, Containerization._
    
-   - **Subject Matter Expert :books::**  Python, Cloud Computing, Open Source Technologies.
-
+   - **Subject Matter Expert :books::**  
+      - Container Technology, Distributed Systems_
 
 ### Always open to discuss new opportunities. Feel free to contact me.
 
