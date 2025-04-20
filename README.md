@@ -18,7 +18,7 @@ Along with this, I work as:
    - Deep Familiarity with Oxford Style Guide, Microsoft Style Guide, Chicago Manual of Style
    - Excellent hands-on knowledge of Markdown, Git, reStructuredText, Asciidoc
    - I enjoy playing with HTML5, CSS3 and bit of JS. 
-   - Ask me :question: about Python, Cloud Computing, Amazon Web Services.
+   - Ask me :question: about Python, Cloud Computing, Distributed Systems.
 
   
  **Additional Profiles:**
